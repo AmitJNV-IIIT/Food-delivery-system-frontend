@@ -1,0 +1,13 @@
+.header {
+    display: flex; /* Use flexbox */
+  }
+  
+  .header span {
+    margin-right: 20px; /* Adjust spacing between links */
+  }
+  
+  .header .home-link {
+    text-decoration: none; /* Remove underline */
+    color: black; /* Set link color */
+  }
+  
